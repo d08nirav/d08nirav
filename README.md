@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nirav
+**Senior Full-Stack Developer | AI Enthusiast**
 
-<!--
-**d08nirav/d08nirav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on building clean, efficient, and user-centric applications. Currently exploring advanced cloud architectures and deep-diving into system optimization. I build things with code. I love automation, open-source projects, and solving complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+- **Languages:** C#, JavaScript, TypeScript, HTML/CSS, Python
+- **Frameworks:** .NET, React, Next.js
+- **Databases & Tools:** PostgreSQL, MSSQL, Git, Docker, Azure, AWS
+
+---
+
+### 📬 Connect with Me
+- 🌐 [Portfolio](https://www.d08nirav.com.au)
+- 💼 [LinkedIn](https://www.linkedin.com/in/d08nirav)
+- 📧 [Email](mailto:d08nirav@gmail.com)
